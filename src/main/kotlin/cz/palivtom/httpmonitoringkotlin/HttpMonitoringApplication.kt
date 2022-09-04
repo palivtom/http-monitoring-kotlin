@@ -1,4 +1,4 @@
-package cz.palivtom.httpmonitoring
+package cz.palivtom.httpmonitoringkotlin
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

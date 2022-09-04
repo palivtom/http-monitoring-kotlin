@@ -1,4 +1,4 @@
-package cz.palivtom.httpmonitoring.mapper
+package cz.palivtom.httpmonitoringkotlin.mapper
 
 import org.mapstruct.Mapper
 import org.mapstruct.Mapping
